@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Program Files (x86)\\Google Drive\\_Studie\\_School\\_Repos\\C#\\Filerijden\\Filerijden\\Filerijden\\Filerijden.csproj": {}
+  },
+  "projects": {
+    "G:\\Program Files (x86)\\Google Drive\\_Studie\\_School\\_Repos\\C#\\Filerijden\\Filerijden\\Filerijden\\Filerijden.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Program Files (x86)\\Google Drive\\_Studie\\_School\\_Repos\\C#\\Filerijden\\Filerijden\\Filerijden\\Filerijden.csproj",
+        "projectName": "Filerijden",
+        "projectPath": "G:\\Program Files (x86)\\Google Drive\\_Studie\\_School\\_Repos\\C#\\Filerijden\\Filerijden\\Filerijden\\Filerijden.csproj",
+        "packagesPath": "C:\\Users\\Donny\\.nuget\\packages\\",
+        "outputPath": "G:\\Program Files (x86)\\Google Drive\\_Studie\\_School\\_Repos\\C#\\Filerijden\\Filerijden\\Filerijden\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Donny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
